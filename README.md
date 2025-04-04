@@ -20,3 +20,5 @@ System.out.println("Today is a Great day!!!");
 -> sudo cat complete file path copy and paste in terminal and run to get the password -> 
 install suggested plugins -> then start installing in the local machine 
 -> provide the user name password ,-> we are able to see home page of jenkins 
+
+Manage Jenkins-> plugins -> INstalled plugins/Available pluggins, -> click on checkbox -> then install option is available
